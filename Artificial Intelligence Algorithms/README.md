@@ -1,3 +1,3 @@
-#CS Algorithms Implementation
+# CS Algorithm Implementations
 
 BFS, DFS, A*
