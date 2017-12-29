@@ -1,2 +1,3 @@
 # Database/Client Communication Implementation
-PHP files that communicate with local MYSQL server to display relevant data.
+A simple implementation of a webpage that uses PHP and MYSQL together.
+The home page is located in the file html.php.
