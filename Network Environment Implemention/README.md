@@ -1,2 +1,3 @@
 # Distributed Asynchronous Distance Vector Routing
-Simulates network environment.
+In this assignment, we were tasked with simulating a networking environment using the Distance Vector Routing algorithm.
+To test the program, you would run the Project.java file and give it the values 3, 0, and then any number for the random number seed.
