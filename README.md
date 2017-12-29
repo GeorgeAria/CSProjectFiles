@@ -1,2 +1,2 @@
 # CSProjectFiles
-Various files containing implementations of certain ideas/algorithms.
+Various projects containing implementations of certain ideas/algorithms.
