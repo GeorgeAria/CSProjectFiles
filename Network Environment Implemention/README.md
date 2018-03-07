@@ -1,3 +1,3 @@
 # Distributed Asynchronous Distance Vector Routing
-In this assignment, my classmate Kaylee and I were tasked with simulating a networking environment using the Distance Vector Routing algorithm.
-To test the program, you would run the Project.java file and give it the values 3, 0, and then any number for the random number seed.
+In the assignment for my Computer Science Networking course, my team member and I were tasked with simulating a networking environment using the Distance Vector Routing algorithm.
+To test the program, we ran the Project.java file and gave it the values 3, 0, and then another number for the random number seed.
