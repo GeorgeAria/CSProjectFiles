@@ -1,4 +1,4 @@
-#Fire Emblem Clone
+# Fire Emblem Clone
 
 Note: You MUST have Python 3 installed in order to run this game. You must also install Pygame using Python's pip tool
 Put this is your command line and press enter: python -m pip install pygame --user
