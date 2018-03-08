@@ -1,7 +1,7 @@
 # Fire Emblem Clone
 
 Note: You MUST have Python 3 installed in order to run this game. You must also install Pygame using Python's pip tool
-Put this is your command line and press enter: python -m pip install pygame --user
+Put this in your command line and press enter: python -m pip install pygame --user
 
 
 Backstory: Roy, a knight, sets off to help his friend Natasha get back home to her family. Athos, the mage, comes along as well.
