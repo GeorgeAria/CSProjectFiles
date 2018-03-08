@@ -11,12 +11,15 @@ UPPERCASE: Type in a word, press ENTER and then type "." and ENTER. The server w
 
 Example: "hello" becomes "HELLO"
 
+
 LOWERCASE: Type in a word, press ENTER and then type "." and ENTER. The server will return your word with all the letters in lowercase.
 
 Example: "HELLO" becomes "hello"
 
+
 REVERSE: Type in a word, and press ENTER. The server will return your word with all the letters in reverse order.
 
 Example: "George" becomes "egroeG"
+
 
 EXIT: Exits the program.
