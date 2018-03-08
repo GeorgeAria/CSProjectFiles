@@ -1,6 +1,6 @@
 # Client/Server programs
 For this project, my partner and I were tasked with creating a Server and Client program that implemented a very simple application level protocol. We used the Socket IO library in Java in order to accomplish this.
-To run, you must run the Server program before you run the Client program.
+You must run the Server program before you run the Client program.
 You are then given the option to type 4 commands:
 1. UPPERCASE
 2. LOWERCASE
